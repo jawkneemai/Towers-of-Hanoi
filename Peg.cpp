@@ -1,8 +1,3 @@
-// ITP 365 Fall 2015
-// HW3 - Towers of Hanoi
-// Name: Johnathan Mai
-// Email: johnathm@usc.edu
-// Platform: Mac
 
 #include "Peg.h"
 
